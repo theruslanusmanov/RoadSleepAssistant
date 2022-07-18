@@ -24,6 +24,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     Title("Главный экран")
+                    Finish()
                 }
             }
         }
